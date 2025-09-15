@@ -35,7 +35,7 @@ Set `test = true` in `Game.java` line 44
 *Make sure `best.neat` file exists in the project root*
 
 ### Train from Scratch
-Set `test = false` in `Game.java` line 44, then run
+Set `test = false` in `Game.java` line 44
 
 ## How It Works
 
