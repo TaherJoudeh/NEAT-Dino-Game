@@ -31,16 +31,11 @@ cd NEAT-Dino-Game
 ```
 
 ### Run Pre-trained Agent
-```bash
-mvn exec:java -Dexec.mainClass="game.Game"
-```
+Set `test = true` in `Game.java` line 44
 *Make sure `best.neat` file exists in the project root*
 
 ### Train from Scratch
-Set `test = false` in `Game.java` line 44, then run:
-```bash
-mvn exec:java -Dexec.mainClass="game.Game"
-```
+Set `test = false` in `Game.java` line 44, then run
 
 ## How It Works
 
