@@ -32,6 +32,7 @@ cd NEAT-Dino-Game
 
 ### Run Pre-trained Agent
 Set `test = true` in `Game.java` line 44
+
 *Make sure `best.neat` file exists in the project root*
 
 ### Train from Scratch
