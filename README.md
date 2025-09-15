@@ -114,16 +114,6 @@ speed = -1.5f                // Initial scroll speed
 - Networks automatically control all actions
 - Real-time visualization shows best performing brain
 
-## Training Results
-
-Typical evolution progression:
-- **Generation 1-10:** Random jumping, score ~100-500
-- **Generation 25-50:** Basic obstacle avoidance, score ~1000-3000  
-- **Generation 75-100:** Consistent performance, score ~5000-8000
-- **Generation 100+:** Near-optimal play, score 10000+
-
-The AI typically achieves superhuman performance after 100-150 generations.
-
 ## Assets Required
 
 Place sprite files in `Assets/` directory:
