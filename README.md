@@ -1,5 +1,8 @@
 # NEAT Dino Game
 
+![Java](https://img.shields.io/badge/Java-8%2B-blue?logo=openjdk)
+![License](https://img.shields.io/badge/License-MIT-green)
+
 AI agents learn to play Chrome Dino Game using NEAT (NeuroEvolution of Augmenting Topologies) with real-time neural network visualization.
 
 ![2025-09-1520-48-02-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/dd2ca7ca-4b78-4be7-baec-c80db2d32ba2)
